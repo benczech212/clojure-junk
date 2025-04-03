@@ -1,0 +1,1 @@
+clj -X:deps tree
